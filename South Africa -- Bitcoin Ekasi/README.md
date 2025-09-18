@@ -16,16 +16,16 @@ Meet our team:https://bitcoinekasi.com/team/
 
 
 ## 🎓 Graduations
-Cohort 1
+- **Cohort 1
 - **Dates of Graduations:** November 2023
 - **Number of Students Graduated:** 6 students graduated
-  Cohort 2
+- **Cohort 2
 - **Dates of Graduations:** August 2024
 - **Number of Students Graduated:** 5 students graduated
- Cohort 3
+ - **Cohort 3
 - **Dates of Graduations:**  April 2025
 - **Number of Students Graduated:** 6 students graduated
-Cohort 4
+- **Cohort 4
 - **Dates of Graduations:** September 2025
 - **Number of Students Graduated:** 16 students graduated
   
